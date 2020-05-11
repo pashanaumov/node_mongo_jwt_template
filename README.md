@@ -3,6 +3,7 @@
 ## Authentication is built using `passport`, `passport-jwt` and `passport-local`
 
 A basic API scaffold to use with your projects. 
+
 Tech stack: 
 - Express
 - MongoDb
