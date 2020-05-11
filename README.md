@@ -13,4 +13,4 @@ Tech stack:
 - passport-jwt 
 - bcrypt
 
-To connect your mongoDb, change `mongoDbUrl` in `index.js
+To connect your mongoDb, change `mongoDbUrl` in `index.js`
